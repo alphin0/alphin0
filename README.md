@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<marquee><font color="limegreen"><h1>👋 Hi there, I'm Alphin</h1></font></marquee>
+<h1>👋 Hi there, I'm Alphin</h1>
 <p align="center">
   <img src="https://profile-counter.glitch.me/alphin0/count.svg" />
 </p>
