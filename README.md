@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="mailto:mpalphin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alphin-m-p-7/)
+  <a href="www.linkedin.com/in/brinet-louis"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
