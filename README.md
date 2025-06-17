@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there, I'm Alphin 👋</h1>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Jenin82/count.svg" />
+  <img src="https://profile-counter.glitch.me/alphin0/count.svg" />
 </p>
 
 <h3 align="center">💻 Languages and Tools:</h3>
